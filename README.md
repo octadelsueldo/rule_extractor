@@ -7,7 +7,7 @@ Built with Python, it aims to bridge the gap between discretionary trading insig
 
 ---
 
-## 📌 Contacto
+## 📌 Contact
 
 📩 **Telegram:** [@alanovski](https://t.me/alanovski)  
 📸 **Instagram:** [@alanautotrading](https://www.instagram.com/alanautotrading)  

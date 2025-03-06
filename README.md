@@ -1,5 +1,5 @@
 # Alanovski
-Welcome algotrader.🥷
+Welcome algotrader.
 
 # rule_extractor
 🚀 Unlocking the Edge for AlgoTraders

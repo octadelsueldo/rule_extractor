@@ -10,6 +10,6 @@ Built with Python, it aims to bridge the gap between discretionary trading insig
 ## 📌 Contact
 
 📩 **Telegram:** [@alanovski](https://t.me/alanovski)  
-📸 **Instagram:** [@alanautotrading](https://www.instagram.com/alanautotrading)  
+📸 **Instagram:** [@alanautotrading](https://www.instagram.com/alan_autotrading)  
 
 If you have any questions or want to talk about algorithmic trading, feel free to contact me!
